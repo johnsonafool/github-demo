@@ -1,6 +1,6 @@
 # 一隻貓貓的故事
 
-![title](picture/sleep_shumai.png)
+![title](https://megapx.dcard.tw/v1/images/43c26aa0-7195-4eff-92c1-e33a1fa101f6/responsive?width=1080)
 
 燒賣非常喜歡在公園裡四處探索。每天早晨，當太陽剛升起時，牠就會跳下床，伸個懶腰，迫不及待地奔向公園。公園裡有高大的樹木和翠綠的草地，是燒賣最喜歡的地方。
 
