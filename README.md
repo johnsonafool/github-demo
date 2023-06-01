@@ -1,6 +1,6 @@
 # 一隻貓貓的故事
 
-![title](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wyzowl.com%2Fmeme-marketing%2F&psig=AOvVaw3Shok4s8va-mU4ZlFyDdZx&ust=1685705464981000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCo_Ln8of8CFQAAAAAdAAAAABAJ)
+![title](dog.jpg)
 
 從前有一隻貓貓，牠叫做燒賣。燒賣是一隻活潑好動的貓咪，牠的毛色漂亮，像是一顆金色的太陽。牠住在北科旁邊的公園旁邊，這個公園是許多人和動物們聚集的地方。
 
